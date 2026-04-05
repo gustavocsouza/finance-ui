@@ -17,6 +17,10 @@
         animation-duration: 300ms;
     }
 
+    .duration-400 {
+        animation-duration: 400ms;
+    }
+
     .delay-100 {
         animation-delay: 100ms;
     }
